@@ -1,4 +1,12 @@
-# Lifely_Agrumino_Lemon_Qubitro
+# Lifely Agrumino Lemon for Qubitro.com Iot platform
+
+Lifely Agrumino Lemon Device
+![IMG_20190710_151936183](https://user-images.githubusercontent.com/35570068/162251454-d3041fea-62b5-486a-9c50-a7d4b8e79af6.jpg)
+
+Kit https://bit.ly/3JnuXYC
+![20200810_153546](https://user-images.githubusercontent.com/35570068/162251785-1f73fe51-1be5-4226-9088-974c9323c25e.jpg)
+
+
 
 Open https://bit.ly/3rawiM3 for Qubitro Portal
 ![image](https://user-images.githubusercontent.com/35570068/162217071-9162cf24-947e-4970-aa0a-21bc316e7640.png)
